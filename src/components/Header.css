@@ -1,0 +1,16 @@
+.Header {
+    color: white;
+    display: block;
+    width: 100%;
+    padding: 1rem;
+    margin: 0rem 1rem;
+    text-align: center;
+    transition: 200ms;
+}
+
+hr {
+    border: none;
+    border-top: 10px dotted rgba(29, 209, 149, 0.322);
+    height: 1px;
+    width: 50%;
+}
